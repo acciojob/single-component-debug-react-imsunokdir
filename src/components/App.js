@@ -10,5 +10,5 @@ const App = () => {
     </div>
   );
 };
-//3nd push
+//5 push
 export default App;
